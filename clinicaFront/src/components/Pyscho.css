@@ -1,0 +1,20 @@
+.conteiner-pysco {
+    width: 100%;
+    height: 770px;
+}
+
+.conteiner-pysco {
+    background: url("../assets/imgs/psycologist.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+.conteiner-subempresaP {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 300px;
+}

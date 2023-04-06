@@ -1,0 +1,18 @@
+.container-physio{
+    width: 100%;
+    height: 770px;
+
+    background: url("../assets/imgs/fisio.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+.conteiner-subempresaP {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 300px;
+}
